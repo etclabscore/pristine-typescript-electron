@@ -62,9 +62,6 @@
       "build/**/*",
       "node_modules/**/*"
     ],
-    "directories": {
-      "buildResources": "assets"
-    },
     "mac": {
       "category": "public.app-category.developer-tools"
     },

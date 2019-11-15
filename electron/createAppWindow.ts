@@ -15,7 +15,7 @@ export function createAppWindow() {
     // Open the DevTools.
     win.webContents.openDevTools();
   } else {
-    win.loadFile(`file://${path.join(__dirname, "../build/index.html")}`);
+    win.loadURL(`file://${__dirname}/index.html`);
   }
 
   win.on("closed", () => {
