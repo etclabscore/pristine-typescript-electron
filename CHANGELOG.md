@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/etclabscore/pristine-typescript-electron/compare/1.0.0...1.0.1) (2019-11-16)
+
+
+### Bug Fixes
+
+* **electron:** production build ([8eafc3b](https://github.com/etclabscore/pristine-typescript-electron/commit/8eafc3bb8abe510f83c42efb7f7ce284859dc1fa))
+
 # 1.0.0 (2019-11-15)
 
 
