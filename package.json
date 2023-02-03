@@ -34,11 +34,11 @@
     "@semantic-release/commit-analyzer": "^6.3.3",
     "@semantic-release/git": "^7.0.18",
     "@semantic-release/github": "^5.5.5",
-    "@semantic-release/npm": "^5.3.4",
+    "@semantic-release/npm": "^9.0.2",
     "@semantic-release/release-notes-generator": "^7.3.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "semantic-release": "^15.13.30"
+    "semantic-release": "^20.1.0"
   },
   "browserslist": {
     "production": [
